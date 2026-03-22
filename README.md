@@ -27,8 +27,5 @@
 
 ### AWS Setup
 ![EC2](aws_networking/EC2_setup.png)
-![VPC](aws_networking/VPC_setup.png)
+![Nginx](aws_networking/nginx_output.png)
 
-### Docker & CI/CD
-![Docker](docker_ci_cd/docker_run.png)
-![Pipeline](docker_ci_cd/ci_cd_pipline.png)
